@@ -10,7 +10,7 @@ owner: The Little Play Package # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: help@thelittleplaypackage.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://192.168.0.20" # the base hostname & protocol for your site
+url: "http://thelittleplaypackage.com" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
